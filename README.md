@@ -1,2 +1,6 @@
-# LabaMai_final-
-the final version of MAI laboratory work
+#include <iostream>
+
+int main() {
+    std::cout << "Hello, World!" << std::endl;
+    return 0;
+}
